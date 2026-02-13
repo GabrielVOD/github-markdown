@@ -16,8 +16,8 @@
 - [ x ] Adicinar colaborador
 - [ x ] Ter o primeiro fork
 - [ x ] Receber o primeiro Pull Request
-- [  ] Fazer o primeiro Merge
-- [  ] Receber uma Issue
+- [ x ] Fazer o primeiro Merge
+- [ x ] Receber uma Issue
 
 ## 4 - Formatação com Markdown
 
