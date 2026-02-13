@@ -21,7 +21,7 @@
 
 ## 4 - Descrição Sobre o Projeto Utilizando  Markdown
 
-Este projeto serviu para ajudar no entendimento da plataforma github, passando pelos processos de colaboração da plataforma como Commit, Fork, Pull Request, Merge e Issue. Como também apoiou a compreenção da formatação de textos com markdown.
+Este projeto serviu para ajudar no entendimento da plataforma github, passando pelos processos de colaboração da plataforma como Commit, Fork, Pull Request, Merge e Issue. Como também apoiou a compreensão da formatação de textos com markdown.
 
 > Este projeto utiliza Markdown para formatação e poucos elementos em HTML.
 
