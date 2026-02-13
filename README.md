@@ -7,15 +7,15 @@
 ## 2 - Criar Repositório
 
 - [ x ] Repositório criado com o nome ``github-markdown``
-- [ x ] `README.md`` adicionado na criação
+- [ x ] ``README.md`` adicionado na criação
 - [ x ] Repositório definido como público
 - [ x ] Fazer o primeiro commit da estrutura do README
 
 ## 3 - Colaboração
 
-- [  ] Adicinar colaborador
-- [  ] Ter o primeiro fork
-- [  ] Receber o primeiro Pull Request
+- [ x ] Adicinar colaborador
+- [ x ] Ter o primeiro fork
+- [ x ] Receber o primeiro Pull Request
 - [  ] Fazer o primeiro Merge
 - [  ] Receber uma Issue
 
